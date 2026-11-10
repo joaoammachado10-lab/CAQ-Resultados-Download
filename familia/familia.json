@@ -1,4 +1,13 @@
 
 {
-  "historias": []
+  "historias": [
+    {
+      "id": "familia-caq-001",
+      "categoria": "pessoas",
+      "titulo": "O CAQ é feito de pessoas. Esta é a nossa história.",
+      "data": "2026-11-10",
+      "texto": "O Clube Atlético de Queluz é muito mais do que resultados, jogos ou competições.\n\nÉ feito de pessoas. De quem treina, ensina, acompanha, apoia e dedica parte da sua vida ao clube. De atletas, treinadores, famílias, dirigentes, colaboradores e voluntários que, todos os dias, ajudam a construir aquilo que somos.\n\nA Família CAQ nasce para dar voz a essas pessoas, partilhar histórias, valorizar iniciativas e preservar os momentos que nos unem.\n\nPorque um clube não se constrói apenas dentro das quatro linhas. Constrói-se nas relações, nos valores que transmite e no sentimento de pertença que deixa em cada pessoa.\n\nUm clube. Muitas histórias. Uma só família.",
+      "publicado": true
+    }
+  ]
 }
